@@ -85,7 +85,7 @@ operacion-extraccion/
 - Modelos GLB: 
 Recurso	Uso en el juego	Fuente	
     1. ZOMBIE: Pie Grande / Demonio Necrófago (modelo 3D)	Zombi (models/zombie.glb)	Pixabay: https://pixabay.com/es/3d-models/pie-grande-demonio-necr%C3%B3fago-1716/	Pixabay Content License
-    2. Arma 1: Glock liquid chromada con corredera metálica morada, zombie oscuro (modelo 3D)	Arma 1: pistola (models/arma1.glb)	Tripo Studio: https://studio.tripo3d.ai/3d-model/una-glock-liquid-chromada-con-corredera-met%C3%A1lica-morada-zombie-oscuro-df8162a7-3ea9-409
+    2. Arma 1: Glock liquid chromada con corredera metálica morada, zombie oscuro (modelo 3D)	Arma 1: pistola (models/arma1.glb)	Tripo Studio: https://studio.tripo3d.ai/3d-model/una-glock-liquid-chromada-con-corredera-met%C3%A1lica-morada-zombie-oscuro-df8162a7-3ea9-4092-848f-19cb85151791
     3. Arma 2: Pump-action shotgun with carved pumpkin, ornate scrollwork, spider web (modelo 3D)	Arma 2: escopeta (models/arma2.glb)	Tripo Studio: https://studio.tripo3d.ai/3d-model/pump-action-shotgun-with-carved-pumpkin-ornate-scrollwork-spider-web-13844020-235c-4c6a-a8a2-03fee0dfb7fe
 
 Texturas del escenario (ventanas, asfalto) y sonidos: generados por código en el propio juego, sin archivos externos.
